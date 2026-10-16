@@ -1,0 +1,7 @@
+# secrets - never commit
+.env
+# logs and temp files
+*.log
+*.tmp
+# dependencies (for Node projects later)
+node_modules/
