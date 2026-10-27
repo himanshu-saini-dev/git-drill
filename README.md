@@ -6,6 +6,8 @@ Practice repo for Git basics: .gitignore, branches, merge and conflicts.
 - `.gitignore` keeps secrets (`.env`) and logs out of Git
 - `git rm --cached` untracks a file that was committed by mistake
 - `Branches`: switch, merge
+- Remote: push, clone, pull
+- Pull request with code review
 
 ## How to use
-Clone the repo and open `fees.txt`.- Branches: switch, merge
+Clone the repo and open `fees.txt`.
