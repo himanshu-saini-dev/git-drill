@@ -9,4 +9,5 @@ Practice repo for Git basics: .gitignore, branches, merge and conflicts.
 - Remote: push, clone, pull
 - Pull request with code review
 
-Clone the repo and open `fees.txt`
+## How to use
+Clone the repo and open `fees.txt`.
